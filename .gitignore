@@ -1,0 +1,12 @@
+# Files intentionally kept outside the repository
+.superpowers/
+tests/
+docs/
+
+# Local Python and IDE artifacts
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
